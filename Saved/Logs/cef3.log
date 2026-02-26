@@ -1,12 +1,26 @@
-[5504:31228:0226/113703.351:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[5504:9152:0226/113703.394:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[5504:31228:0226/113703.417:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[33756:35128:0226/113707.177:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-54EADB8E88AF112475B03375690BC4D2 will be ignored
-[5504:11440:0226/113707.532:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
-[5504:31228:0226/113707.572:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,5]
-[5504:31228:0226/113707.573:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,5]
-[5504:31228:0226/113707.573:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,5]
-[5504:31228:0226/113707.573:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,5]
-[5504:11440:0226/113707.616:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,5]
-[18444:4064:0226/113916.120:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
-[5504:31228:0226/114636.038:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[20380:12052:0226/123232.925:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[20380:12904:0226/123232.964:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[20380:12052:0226/123232.982:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[20380:12904:0226/123235.105:WARNING:leveldb_database.cc(141)] Unable to open C:\GhostNightMarket\GhostNightMarket\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\GhostNightMarket\GhostNightMarket\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[20380:11276:0226/123235.110:WARNING:leveldb_database.cc(141)] Unable to open C:\GhostNightMarket\GhostNightMarket\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\GhostNightMarket\GhostNightMarket\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[20380:11276:0226/123235.113:WARNING:leveldb_database.cc(141)] Unable to open C:\GhostNightMarket\GhostNightMarket\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\GhostNightMarket\GhostNightMarket\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[20380:11276:0226/123235.115:WARNING:leveldb_database.cc(141)] Unable to open C:\GhostNightMarket\GhostNightMarket\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\GhostNightMarket\GhostNightMarket\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[20380:11276:0226/123235.336:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[20380:11276:0226/123235.339:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[36776:9608:0226/123237.067:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-2CEE9D10D096C89D061073752507DF55 will be ignored
+[20380:15860:0226/123241.459:WARNING:leveldb_database.cc(141)] Unable to open C:\GhostNightMarket\GhostNightMarket\Saved\webcache_6613\Default\GCM Store\Encryption: IO error: C:\GhostNightMarket\GhostNightMarket\Saved\webcache_6613\Default\GCM Store\Encryption/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[20380:12904:0226/123500.032:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[36128:37268:0226/123500.042:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[20380:29028:0226/125218.867:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[36128:36984:0226/125218.879:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[20380:29028:0226/125226.976:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[36128:37268:0226/125226.987:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[20380:29028:0226/125229.048:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[36128:34252:0226/125229.051:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[20380:29028:0226/125308.008:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[36128:36984:0226/125308.029:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[20380:29028:0226/130017.844:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[36128:37268:0226/130017.848:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[20380:29028:0226/132331.245:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[36128:37268:0226/132331.268:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[20380:12052:0226/155356.422:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
