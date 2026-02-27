@@ -1,13 +1,35 @@
+# Unreal Engine
 Binaries/
 Build/
 Intermediate/
 Saved/
 DerivedDataCache/
 *.VC.db
+*.opensdf
 *.opendb
-*.suo
-*.user
+*.sdf
 *.sln
-*.xcodeproj
+*.suo
 *.xcworkspace
+*.xcodeproj
+*_BuiltData.uasset
 
+# Log files
+*.log
+
+# Binary files
+*.pdb
+*.lib
+*.exp
+*.dll
+*.exe
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.idea/
+.vscode/
+*.user
